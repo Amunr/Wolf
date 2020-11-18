@@ -210,7 +210,7 @@
             }
          },
          "extras" : {
-            "isHeadLight" : 1
+            "isHeadLight" : 0
          },
          "name" : "headLightNode",
          "translation" : [ -5.880340341353607, 2.940170170676804, 2.940170170676804 ]
@@ -218,11 +218,11 @@
       {
          "extensions" : {
             "KHR_lights_punctual" : {
-               "light" : 1
+               "light" : 0
             }
          },
          "extras" : {
-            "isKeyLight" : 1
+            "isKeyLight" : 0
          },
          "name" : "keyLightNode",
          "rotation" : [ -0.7505326882858236, -0.3752663441429118, 0, 0.5439447166468927 ],
